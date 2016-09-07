@@ -5,10 +5,9 @@
 
 ### slides + demo links
 
-* Slides for [Part 1](https://auremoser.github.io/web-intro) + [Code](https://github.com/auremoser/web-intro)
-* Slides for [Part 2](https://auremoser.github.io/web-intro-2) + [Code](https://github.com/auremoser/web-intro-2)
+* Slides for [Part 1](hhttps://auremoser.github.io/web-concepts) + [Code](https://github.com/auremoser/web-concepts)
 * Interactive [Code Academy Break](http://webdive.ktam.org/web/basics)
-* Practice [Files and Exercises](https://github.com/auremoser/web-intro/tree/master/practice)
+* Practice [Files and Exercises](https://github.com/auremoser/web-concepts/tree/master/practice)
 
 ### description
 
@@ -69,4 +68,4 @@ This class comes from materials cribbed and culled from various [Girl Develop It
 
 [@auremoser](twitter.com/auremoser)
 
-[aurelia@girldevelopit.com](mailto:aurelia@girldevelopit.com)
+[aurelia@mozillafoundation.org](mailto:aurelia@mozillafoundation.org)
